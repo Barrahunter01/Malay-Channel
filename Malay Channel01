@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/tv1.png", group-title="MALAY",TV1
+http://rtm-live.glueapi.io/smil:rtmch001.smil/chunklist_b1064000_sleng.m3u8
+#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/tv2.png", group-title="MALAY",TV2 
+http://rtm-live.glueapi.io/smil:rtmch002/chunklist_b1064000_sleng.m3u8
+#EXTINF:0, tvg-logo="http://onlineindo.tv/images/logo/rcti.png", group-title="INDOTV",RCTI
+https://kmklive-lh.akamaihd.net/i/rcti_live@94478/master.m3u8
+#EXTINF:14 tvg-logo="https://vignette.wikia.nocookie.net/logo-timeline/images/3/31/TRANS_7.png",Trans7
+http://id2.indostreamingtv.com/live/tv7/index.m3u8
+#EXTINF:15 tvg-logo="https://vignette.wikia.nocookie.net/logo-timeline/images/3/31/TRANS_7.png",Trans7
+http://live1.indostreamingtv.com/f2d63806-bffc-4109-bb4d-42cbe32dab7e
+#EXTINF:9 tvg-logo="https://vignette.wikia.nocookie.net/logo-timeline/images/3/31/TRANS_7.png",Trans7
+https://cdn-livetv1.metube.id/hls/trans7_480/index.m3u8
+#EXTINF:11 tvg-logo="https://vignette.wikia.nocookie.net/tolololpedia/images/3/3d/Global_TV.png",GTV
+https://cdn-livetv2.metube.id/hls/globaltv_480/index.m3u8
+#EXTINF:23 tvg-logo="http://2.bp.blogspot.com/-LNg4jdmVISA/VMSzhk-LzKI/AAAAAAAABgc/HfMCpOTUstE/s1600/Trans%2BTV.png",TransTV
+https://cdn-livetv1.metube.id/hls/transtv_480/index.m3u8
